@@ -1,4 +1,8 @@
 {
-  "version": "08.06.2020-5-dev",
-  "link": "https://cdn.discordapp.com/attachments/717982857003532348/719555000396677150/ascript_rewritten.lua"
+  "version": "24.06.2020-dev",
+  "link": "https://cdn.discordapp.com/attachments/717982857003532348/725110182748880937/ascript_rewritten.lua",
+  "changes": [
+    "Добавлена система чейнджлогов.",
+    "Исправлены некоторые баги"
+  ]
 }
