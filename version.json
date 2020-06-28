@@ -1,9 +1,11 @@
 {
-  "version": "24.06.2020-dev",
-  "link": "https://cdn.discordapp.com/attachments/717982857003532348/725114683899510854/ascript_rewritten.lua",
+  "version": "28.06.2020-dev",
+  "link": "https://cdn.discordapp.com/attachments/717982857003532348/726834883757867048/ascript_rewritten.lua",
   "changes": [
     "Добавлена система чейнджлогов.",
     "Исправлены некоторые баги.",
+    "[TEMP] Добавлена команда /as_switchWorkClist [клист] для смены рабочего клиста",
+    "[TEMP] Добавлена команда /as_switchWorkClistText [отыгровка] для смены отыгровки рабочего клиста",
     "[DEV] Установлены настройки кодировок."
   ]
 }
